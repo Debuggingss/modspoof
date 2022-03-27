@@ -1,0 +1,10 @@
+{
+    "compatibilityLevel": "JAVA_8",
+    "package": "dev.debuggings.modspoof.mixins",
+    "refmap": "mixins.modspoof.refmap.json",
+    "mixins": [
+        "MixinModList",
+        "MixinGuiSlotModList"
+    ],
+    "verbose": true
+}

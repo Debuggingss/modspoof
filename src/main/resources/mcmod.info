@@ -1,0 +1,18 @@
+[
+    {
+        "modid": "modspoof",
+        "name": "ModSpoof",
+        "description": "Spoofs Forge handshake modlist so you can hide sussy mods from servers.",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [
+            "Debuggings"
+        ],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]

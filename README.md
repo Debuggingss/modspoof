@@ -26,7 +26,7 @@ A Forge mod to easily hide mods from servers.
 - **Green:** The mod is shown to servers.
 - **Red:** The mod is hidden from servers.
 
-###Example Mod List:
+### Example Mod List:
 
 <img src="https://i.debuggings.dev/mOgbIxZ9.png" width="200px">
 
